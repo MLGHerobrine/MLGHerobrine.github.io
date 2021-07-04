@@ -1,2 +1,17 @@
 # MLGHerobrine.github.io
 A website for myself.
+
+## API:
+Going to https://MLGHerobrine.github.io/[Bible Translation] will show a JSON object with the **entire** Bible of that version in it.
+### JSON Format:
+```json
+{
+  "Book": {
+    "Chapter1": ["Verse 1", "Verse 2", "etc."],
+    "Chapter2": ["Verse 1", "Verse 2", "etc."],
+    "etc.": ["etc."]
+  }
+}
+```
+### Current supported versions:
+- ASV (In development)
