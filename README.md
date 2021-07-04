@@ -2,7 +2,7 @@
 A website for myself.
 
 ## API:
-Going to https://MLGHerobrine.github.io/[Bible Translation] will show a JSON object with the **entire** Bible of that version in it.
+Going to `https://MLGHerobrine.github.io/api/[Bible Translation]` will show a JSON object with the **entire** Bible of that version in it.
 ### JSON Format:
 ```json
 {
@@ -15,3 +15,6 @@ Going to https://MLGHerobrine.github.io/[Bible Translation] will show a JSON obj
 ```
 ### Current supported versions:
 - ASV (In development)
+
+## For support:
+Click [here](https:MLGHerobrine.github.io/support) to see our support page.
