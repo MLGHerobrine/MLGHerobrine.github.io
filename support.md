@@ -1,5 +1,5 @@
 # Support
-Welcome to the support page! You can submit a report [here](MLGHerobrine.github.io/report.) or check out our FAQ!
+Welcome to the support page! You can submit a report [here](MLGHerobrine.github.io/report) or check out our FAQ!
 ## FAQ
 - **Why can't I fetch a Bible?**
 
