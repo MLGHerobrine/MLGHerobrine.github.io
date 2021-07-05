@@ -8,4 +8,5 @@
 	<label for=message>Message:</label><br>
 	<textarea id=message name=Message rows=4 cols=50>
 	</textarea><br>
+	<input type=submit value=Submit>
 </form>
