@@ -17,4 +17,4 @@ Going to `https://MLGHerobrine.github.io/api/[Bible Translation]` will show a JS
 - ASV (In development)
 
 ## For support:
-Click [here](https:MLGHerobrine.github.io/support.html) to see our support page.
+Click [here](https:MLGHerobrine.github.io/support.md) to see our support page.
