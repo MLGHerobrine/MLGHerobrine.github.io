@@ -3,6 +3,7 @@ A website for myself.
 
 ## API:
 Going to `https://MLGHerobrine.github.io/api/[Bible Translation]` will show a JSON object with the **entire** Bible of that version in it.
+# Please cache all non-changing data, due to Github's 100gb limit per month.
 ### JSON Returned:
 ```json
 {
